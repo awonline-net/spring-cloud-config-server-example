@@ -1,6 +1,6 @@
 Spring Cloud Config Server example
 
-Change the location of configuration file (client.properties). The file is located in config/client.properties
+Change the location of configuration file (config/client.properties) in application.properties of the cloud-config project.
 
 Run the Comment service (default at port 8001).
 Check the service by calling a GET request: http://localhost:8001/message
